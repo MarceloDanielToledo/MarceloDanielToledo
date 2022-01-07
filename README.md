@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Marcelo Daniel Toledo</h1>
 <h3 align="center">.Net Developer</h3>
 
-- 🌱 I’m currently learning **Python, Data Science**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marcelodanieltoledo&label=Profile%20views&color=0e75b6&style=flat" alt="marcelodanieltoledo" /> </p>
+
+- 🔭 I currently work in **a local company as a .net developer**
+
+- 🌱 I’m currently learning **Python, Data Science and Blazor**
+
+- 👨‍💻 All of my public projects are available at [https://github.com/MarceloDanielToledo?tab=repositories](https://github.com/MarceloDanielToledo?tab=repositories)
 
 - 📫 How to reach me **daniel.toledo.mdp@gmail.com**
 
@@ -9,6 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/mdanieltoledo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdanieltoledo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/marcelodanieltoledo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcelodanieltoledo" height="30" width="40" /></a>
+<a href="https://fb.com/danielttt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="danielttt" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

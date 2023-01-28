@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcelodanieltoledo&label=Profile%20views&color=0e75b6&style=flat" alt="marcelodanieltoledo" /> </p>
 
-- 🔭 I currently work in **a local company as a .net developer**
-
-- 🌱 I’m currently learning **Python, Data Science and Blazor**
+- 🔭 I currently work in **a local company as a .NET developer**
 
 - 👨‍💻 All of my public projects are available at [https://github.com/MarceloDanielToledo?tab=repositories](https://github.com/MarceloDanielToledo?tab=repositories)
 
-- 📫 How to reach me **daniel.toledo.mdp@gmail.com**
+- 📫 How to reach me **marcelodanieltoledo.arg@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

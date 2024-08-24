@@ -8,10 +8,10 @@ Hello, I'm Marcelo Daniel Toledo
 <hr>
 
 <pre>
-💻 I'm currenty working as an SSR .NET Developer at a non-bank financial company.
+💻 I'm currently working as an SSR .NET Developer at a non-bank financial company.
 🚀 I also own SaaS solutions for local clients, handling maintenance and implementing new features.
-📚 I have a Bachelors degree in Computer Science from the Atlántida University at Argentina.
-📝 I'm interested in collaborating and learning about new solutions, i'm passionate about being part of a product.
+📚 I have a Bachelors degree in Computer Science from Atlántida University in Argentina.
+📝 I'm interested in collaborating and learning about new solutions; I'm passionate about being part of a product.
 🌱 Learning about efficient microservices design.
 🎵 Love lofi, rock, R&B/Soul, etc.
 </pre>

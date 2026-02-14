@@ -1,5 +1,4 @@
 <h1 align="center">Marcelo Daniel Toledo</h1>
-<h3 align="center">Software Developer | .NET Ecosystem Specialist</h3>
 
 ```csharp
 public class MarceloDanielToledo : SoftwareDeveloper
@@ -10,7 +9,8 @@ public class MarceloDanielToledo : SoftwareDeveloper
 
     public override string[] Skills => new[]
     {
-        ".NET", "SQL", "Microservices", "Docker", "Oracle", "Go", "React", "Blazor", "Kubernetes", "Redis", "CI/CD", ".NET Framework"
+        ".NET", "SQL", "Microservices", "Docker", "Oracle", "Go", "React", 
+        "Blazor", "Kubernetes", "Redis", "CI/CD", ".NET Framework"
     };
 
     public override string[] SoftSkills => new[]
